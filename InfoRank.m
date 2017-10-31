@@ -1,3 +1,5 @@
+% Barucca, P., Caldarelli, G., & Squartini, T. (2017). Tackling information asymmetry in networks: a new entropy-based ranking index. 
+% arXiv preprint arXiv:1710.09656.
 
 function [Rank,ACC]=InfoRank(M)
 
